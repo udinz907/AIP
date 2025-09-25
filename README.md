@@ -5,7 +5,7 @@
 Gunakan script di bawah untuk menginstall panel, node, hack back panel hanya dengan sekali copy paste saja.
 
 ```bash
-https://raw.githubusercontent.com/databasegustafhostingdev/installer-pterodactyl/main/install.sh
+https://raw.githubusercontent.com/udinz907/AIP/main/install.sh
 ```
 
 ## TOKEN BASH : gustafhostingdev
